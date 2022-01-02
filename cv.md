@@ -19,5 +19,6 @@ E: matskevych.n@gmail.com
 
 ## Jobs
 "Nevesta.info" - sales manager 
+
 ## Education
 Kiev National Economic University, Enterprise economy - master degree
