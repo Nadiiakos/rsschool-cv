@@ -1,5 +1,5 @@
 # Nadiia Kosianenko
-![image](./nadiia.png =250x)
+![image](./nadiia.png)
 ## Contacts
 C: +380500526966
 E: matskevych.n@gmail.com
