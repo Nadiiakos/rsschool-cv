@@ -12,7 +12,7 @@ C: +380500526966
 E: matskevych.n@gmail.com
 
 ## About Me
-
+I'm goal-oriented and hardworking person with good organisational skills and strategic thinking. I have two years experience in sales. Now I'm looking for new opportunities and want to try myself in teck. I have free time for studying and hope RSS help me overcome Frontend Developming. 
 
 
 ## Skills
@@ -67,6 +67,6 @@ Enterprise economy - *master degree*
 * HTML academy;
 
 ## Languages
-* English Intermediate+
-* Russian - native
-* Ukrainian - advanced 
+* English - Intermediate+
+* Russian - Native
+* Ukrainian - Advanced 
