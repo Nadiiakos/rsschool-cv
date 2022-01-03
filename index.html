@@ -75,13 +75,30 @@
           <!---code example-->
           <div class="code-example">
               <h3 class="about-me-title">Code example</h3>
-            
+              <hr>
+              <pre>
+               <code>
+                function arrayDiff(a, b) {
+                  let result = []
+                  for (let i=0; i&lta.length; i++ ) {
+                    let index = b.indexOf(a[i]);
+                    if (index === -1) {
+                      result.push(a[i]);
+                    }
+                  }
+                  console.log(result);
+                  return result;
+                }
+
+               </code>
+              </pre>
  
           </div>
  
           <!--Jobs-->
           <div>
               <h3 class="about-me-title">Jobs</h3>
+              <hr>
 
               <ul>
  
@@ -107,6 +124,7 @@
                <div>
             
                    <h1 class="about-me-title">Education</h1>
+                   <hr>
                    <ul>
                    <li class="university">University</li>
                    <p class="education-name">Kiev National Economic University</p>
@@ -129,6 +147,7 @@
              <!--languages-->
              <div>
                <h3 class="about-me-title">Languages</h3>
+               <hr>
                <ul>
                  <li class="education-speciality">English - Intermediate+</li>
                  <li class="education-speciality">Russian - Native</li>
