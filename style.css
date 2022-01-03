@@ -178,4 +178,12 @@ hr {
   color: #b5e688d7;
   height: 2px;}
 
+  .university {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 700;
+    color: #0a0908;
+    margin-bottom: 10px;
+    margin-top: 10px;
+  }
   
