@@ -181,6 +181,10 @@ body {
   margin-bottom: 4px;
 }
 
+.nubull {
+  list-style-type: none;
+}
+
 .education-speciality {
   font-size: 14px;
   line-height: 24px;
@@ -213,6 +217,7 @@ footer {
 }
 
 .footer-link {
+  float:right;
   font-size: 14px;
   line-height: 24px;
   font-weight: 600;
@@ -223,9 +228,10 @@ footer {
 }
 
 #logo {
+  float:left;
   width: 60px;
   height: 80px;
-  margin-top: 0px;
+  margin-top: 120px;
   margin-left: 0px;
 
 }
@@ -237,17 +243,16 @@ footer {
   font-weight: 600;
   letter-spacing: 0.03em;
   margin-bottom: 20px;
-  margin-top: 35px;
+  margin-top: 150px;
   margin-left: 10px;
   color: #5e5c5c;
 }
 
+
 .data {
-  font-size: 14px;
-  line-height: 24px;
-  font-weight: 600;
-  letter-spacing: 0.03em;
-  margin-bottom: 0px;
-  margin-top: 0px;
+  margin-left: 20px;
+}
+
+a {
   color: #5e5c5c;
 }
