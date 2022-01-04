@@ -86,7 +86,7 @@
                <code>
                 function arrayDiff(a, b) {
                   let result = []
-                  for (let i=0; i&lta.length; i++ ) {
+                  for (let i=0; i&amp;lta.length; i++ ) {
                     let index = b.indexOf(a[i]);
                     if (index === -1) {
                       result.push(a[i]);
@@ -109,18 +109,12 @@
           <ul>
 
             <!--company1-->
-            <div>
               <li class="profession-title"> Nevesta.info - sales manager </li>
               <span class="profession-time"> October 2014 - November 2016 </span>
-            </div>
 
             <!--company2-->
-            <div>
               <li class="profession-title">Maternity leave </li>
-              <span class="profession-time">
-                Since 2017
-              </span>
-            </div>
+              <span class="profession-time">Since 2017 </span>
           </ul>
 
 
@@ -133,9 +127,12 @@
             <hr>
             <ul>
               <li class="university">University</li>
-              <p class="education-name">Kiev National Economic University</p>
-              <p class="education-speciality">Enterprise economy </p>
-              <span class="profession-time">September 2010 - June 2015 </span>
+              <ul>
+                <li class="education-speciality">Kiev National Economic University
+                  <div>Enterprise economy</div>
+                  <div class="profession-time">September 2010 - June 2015</div>
+                </li>
+              </ul>
 
               <li class="university">Courses</li>
 
@@ -161,10 +158,9 @@
             </ul>
           </div>
           <footer>
-            <p class="footer-link"><a href="https://github.com/Nadiiakos">https://github.com/Nadiiakos</a></p>
-            <p class="data"> January 2022</p>
+            <span class="footer-link"><a href="https://github.com/Nadiiakos">https://github.com/Nadiiakos</a><span class="data">January 2022</span></span>
             <img id="logo" class="left"src="https://rs.school/images/rs_school_js.svg" alt="logo"> 
-            <p class="left"><a href="https://rs.school/js/">https://rs.school/js/</a></p> 
+            <span class="left"><a href="https://rs.school/js/">https://rs.school/js/</a></span> 
             
           </footer>
         </div>
